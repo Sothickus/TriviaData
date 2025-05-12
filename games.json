@@ -1,0 +1,22 @@
+{
+	"activeGames":[],
+	"gameDefinitions":[
+		
+	],
+	"gameTypes":[
+		{	"type":"Bingo", "categories":["Music","Sports"], "description":"Bingo"	},
+		{	"type":"FreeEntry", "categories":["Music"], "description":"Free Entry"	},
+		{	"type":"MultipleChoice", "categories":["Music"], "description":"Multiple Choice"	}
+	
+	],
+	"gameCategories":[
+		{	"name":"Music"	},
+		{	"name":"Sports"	},
+		{	"name":"Science"	},
+		{	"name":"Technology"	}
+	
+	]
+	
+	
+	
+}
